@@ -1,0 +1,22 @@
+{
+  "name": "My Fake Tether List",
+  "timestamp": "2026-10-19T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://coingecko.com",
+  "keywords": ["tether", "usdt"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xc7302df163d8912673a56d3538caf551ea1488bc",
+      "decimals": 18,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://coingecko.com"
+    }
+  ]
+}
